@@ -1,4 +1,15 @@
-<h2> Hey everyone, my name is Jalil </h2>
+<h1> Hey everyone, my name is Jalil </h1>
+<p align="center">
+  <img src="images\banner.png" alt="Data Analytics Consultant | SQL, Data Visualization, Public Speaking" width="100%">
+</p>
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-007DBA?style=flat&logo=alteryx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 # Bio
 
@@ -17,7 +28,7 @@ Outside of work, I enjoy reading and listening to music.
 
 | Tableau Data Analyst Certification | Alteryx Core Certification |
 |:-:|:-:|
-|<img src="images/tableau_cert.png" alt="Tableau Data Analyst" width="150"> | <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Core" width="150">|
+|<img src="images\tableau_cert.png" alt="Tableau Data Analyst" width="150"> | <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Core" width="150">|
 
 # Projects
 
@@ -25,12 +36,13 @@ Outside of work, I enjoy reading and listening to music.
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/jalil.cooper/viz/SuperstoreBusinessDashboard_17883827984790/Dashboard1" target="_blank">
-    <img src="images/superstore-dashboard.png" alt="Superstore Business Dashboard" width="80%">
+    <img src="images\superstore-dashboard.png" alt="Superstore Business Dashboard" width="80%">
   </a>
 </p>
 
 # Links
 [LinkedIn](https://www.linkedin.com/in/jalil-cooper-1b2b0a199/?isSelfProfile=true)
+[Data Blog](https://www.thedataschool.com/blog/jalil-cooper/)
 [Tableau Public](https://public.tableau.com/app/profile/jalil.cooper/vizzes)
 [Leetcode](https://leetcode.com/u/UQodhpimDo/)
 
