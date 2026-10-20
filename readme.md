@@ -11,3 +11,21 @@ Certifications
 Alteryx Core: https://www.credly.com/badges/315bf4f5-5ce4-4596-98df-20d271756c77/public_url
 
 Tableau Data Analyst: https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=wKsUpE/BbuyfMInY/7nNPtxXvfTxSZ+act3y+80ORHlTcLZnzl8oJB2U5oe3Plav
+
+# Projects
+
+** The Superstore business dashboard visualizes the sample superstore dataset from Tableau into a proper business dashboard with a full navigation pane and KPIs!
+
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/jalil.cooper/viz/SuperstoreBusinessDashboard_17883827984790/Dashboard1" target="_blank">
+    <img src="images/superstore-dashboard.png" alt="Superstore Business Dashboard" width="80%">
+  </a>
+</p>
+
+** This dashboard uses the Safe Drinking Water Index from the EPA and analyzes drinking water violations in Michigan
+
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/jalil.cooper/viz/MichiganWaterContaminantAnalysis/ContaminantMapNoKPIs" target="_blank">
+    <img src="images/michigan-dashboard.png" alt="Superstore Business Dashboard" width="80%">
+  </a>
+</p>
